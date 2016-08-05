@@ -1,0 +1,24 @@
+{
+  "name": "zomato",
+  "version": "1.0.4",
+  "description": "npm package for Zomato API",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.74.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zomato",
+    "api",
+    "zomato-api",
+    "node-zomato",
+    "node",
+    "nodejs",
+    "node.js"
+  ],
+  "author": "Ritish Gumber",
+  "license": "ISC"
+}
