@@ -1,0 +1,6 @@
+{
+  "name": "Zomato",
+  "tagline": "",
+  "body": "### Welcome to flipkart-affiliate\r\nThis is a node.js Wrapper for [Zomato API](https://developers.zomato.com).\r\nThis helps the node.js developers to create a web or mobile application by just installing this package using npm and make a call to the desired function() .\r\n\r\n### Reference Website\r\n[Zomato API](https://developers.zomato.com).\r\n___\r\n\r\n### Authors and Contributors\r\nRitish Gumber (@ritishgumber) , 2016\r\n___\r\n### Installation \r\n[npm package](https://www.npmjs.com/package/zomato)\r\n___\r\n### Support or Contact\r\nRaise [Issues](https://github.com/ritishgumber/zomato/issues) here.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
